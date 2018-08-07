@@ -14,8 +14,7 @@
 7) User can view all the uploaded images metadata and their thumbnails. 
 
 Amazon services used in this application,
-1) Elastic Beanstalk - flask application
-2) S3
-3) Lambda
-4) Rekognition
-5) Dynamodb
+1) S3
+2) Lambda
+3) Rekognition
+4) Dynamodb
